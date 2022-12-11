@@ -19,7 +19,7 @@ for better explanation we have divided our ELECTRONICS Part into
 * Assemble the electronics components
 * ARDUINO coding
 
-MECHANICAL PART
+# MECHANICAL PART
 ![Screenshot (2)](https://user-images.githubusercontent.com/79990158/206907180-e0564647-5d9f-47d3-9c3f-3dbc90095b30.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/79990158/206907189-99231c35-44b9-4ff6-8124-1f5d01ae4720.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/79990158/206907192-35defe82-bb02-464a-960f-7af826a2bd44.png)
