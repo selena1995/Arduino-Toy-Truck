@@ -1,3 +1,5 @@
+![IMG_5160 copy](https://user-images.githubusercontent.com/79990158/206907915-6d815878-6ab4-4279-b4b3-8bad848b99c9.jpg)
+
 # Arduino-Toy-Truck
 Here in this instructable i have made an arduino bluetooth controlled robot which is for the begineers. The model has been designed a toy truck which will attract the kids. I believe the kids will learn making robots during their play time.
 # Supplies
