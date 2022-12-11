@@ -98,3 +98,4 @@ PLEASE don't forget to disconnect the hc-05 Bluetooth module while uploading the
 After everything, finally we have to connect the robot with our android phone via Bluetooth. There have so many Android app easily available in play store. I have downloaded one of them and installed it in my Android phone. Then I have turned on the robot and searched for HC-05 Bluetooth. then they will as for the passwords. Most of the cases it is '1234'. then it will connect successfully with the robot. then open the app and run your bot.
 
 
+[How to make?](https://www.youtube.com/watch?v=ZM-ibpY_LpM)
